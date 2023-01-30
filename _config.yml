@@ -1,5 +1,4 @@
-   url: signeth2.github.io
-   baseurl: /test_again
+baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
 theme: 'serif'

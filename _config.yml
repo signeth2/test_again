@@ -2,6 +2,7 @@
    baseurl: /test_again
 permalink: pretty
 title: 'Jekyll Serif'
+theme: serif
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
